@@ -1,0 +1,10 @@
+GPIO.c:19:13:GPIO_PeriClockControl	24	static
+GPIO.c:61:6:GPIO_Init	64	static
+GPIO.c:163:6:GPIO_	24	static
+GPIO.c:226:11:GPIO_ReadInputPin	24	static
+GPIO.c:247:10:GPIO_ReadInputPort	24	static
+GPIO.c:267:6:GPIO_WriteOutputPin	24	static
+GPIO.c:295:6:GPIO_WriteOutputPort	24	static
+GPIO.c:331:6:GPIO_IRQConfig	16	static
+GPIO.c:374:6:GPIO_IRQPriorityConfig	24	static
+GPIO.c:389:6:GPIO_IRQHandling	16	static
